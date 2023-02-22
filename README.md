@@ -29,9 +29,6 @@ Using the mini-png executable, you can parse the files by running the following 
 ``` 
 
 In the case of this program, the only working extension file is .mp to avoid any breach or parsing of any file ressembling the structure of Mini-PNG files.
-## Credits 
-
-Thanks to Olivier LEVILLAIN for this very interesting practical work.
 
 ## Licence 
 
